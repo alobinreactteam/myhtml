@@ -1,6 +1,4 @@
 Vikramdas
-<<<<<<< HEAD
 sathya_varshan
-=======
 Asif
->>>>>>> 6160bc91d13997688ccbc7ced80ad915ab0051a6
+
